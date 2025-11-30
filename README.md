@@ -3,8 +3,7 @@
 > [!NOTE]
 > Czech version is available below / Česká verze je k dispozici níže
 
-A template for developing applications for the Tour de App competition with a frontend in [NextJS](https://nextjs.org/) and a backend in [Express](https://expressjs.com/).
-
+A template for developing applications for the Tour de App competition with a frontend in [NextJS](https://nextjs.org/) and a backend in [Exp
 ## Initial Setup
 
 In the frontend and backend directories, there are `.env.example` files that need to be renamed to `.env` and the values adjusted as needed.
